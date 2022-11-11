@@ -3,6 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/benzilko/config-server.git
+          uri: https://github.com/benzilko/config-server
           basedir: /tmp/
           default-label: main
